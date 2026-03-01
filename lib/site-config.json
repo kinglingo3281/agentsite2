@@ -1,0 +1,39 @@
+{
+  "agentName": "Agent Name",
+  "serviceArea": "Rehoboth Beach & Sussex County (19971)",
+  "phone": "(555) 000-0100",
+  "phoneDisplay": "555-000-0100",
+  "email": "agent@yourbrokerage.com",
+  "brokerageDisclosure": "Powered by Your Brokerage REALTOR® / Your Team",
+  "headshotUrl": "/images/areas/rehoboth/hero.webp",
+  "heroImageUrl": "/images/areas/rehoboth/hero.webp",
+  "primaryCtas": {
+    "text": {
+      "label": "Text Me",
+      "href": "sms:+15550000100?&body=Hi%20I%27m%20interested%20in%20Rehoboth%20Beach%20real%20estate"
+    },
+    "call": {
+      "label": "Call Now",
+      "href": "tel:+15550000100"
+    },
+    "search": {
+      "label": "Search Homes",
+      "href": "/search"
+    },
+    "schedule": {
+      "label": "Schedule Call",
+      "href": "/contact#schedule"
+    }
+  },
+  "social": {
+    "facebook": "https://facebook.com/yourbrokerage",
+    "instagram": "https://instagram.com/yourbrokerage",
+    "linkedin": "https://linkedin.com/company/yourbrokerage"
+  },
+  "brokerage": {
+    "name": "Your Brokerage REALTOR®",
+    "teamName": "Your Team",
+    "address": "123 Main Street, Rehoboth Beach, DE 19971",
+    "licenseNumber": "DE-XXXXX"
+  }
+}
